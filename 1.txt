@@ -1,1 +1,2 @@
 this is a test txt used for git learn test
+add new text to 1.txt in another master branch
